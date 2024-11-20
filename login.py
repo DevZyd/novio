@@ -29,8 +29,7 @@ class App:
         # Create widgets for the welcome frame
         self.create_welcome_widgets()
 
-
-
+        # Create widgets for the image frame
         self.create_image_widgets()
 
         # Show the login frame by default
